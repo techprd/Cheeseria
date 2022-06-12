@@ -1,0 +1,11 @@
+[
+  {
+    "id": 0,
+    "isSale": false,
+    "price": "4.99",
+    "productImage": "https://cheese.com/media/img/cheese/GOUDA_SqYJjRh.jpg",
+    "productName": "GOUDA",
+    "type": "processed",
+    "color": "Yellow"
+  }
+]

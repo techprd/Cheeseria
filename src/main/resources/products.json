@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "isSale": false,
+    "price": "4.99",
+    "productImage": "https://cheese.com/media/img/cheese/GOUDA_SqYJjRh.jpg",
+    "productName": "GOUDA",
+    "type": "processed",
+    "color": "Yellow"
+  },
+  {
+    "id": 1,
+    "isSale": true,
+    "price": "14.99",
+    "productImage": "https://cheese.com/media/img/cheese/10-American-Cheese-shutterstock_1610208106.jpg",
+    "productName": "American Cheese",
+    "type": "processed",
+    "color": "Yellow"
+  },
+  {
+    "id": 2,
+    "isSale": false,
+    "price": "14.99",
+    "productImage": "https://cheese.com/media/img/cheese/504_feta.jpg",
+    "productName": "Feta",
+    "type": "brined",
+    "color": "White"
+  },
+  {
+    "id": 3,
+    "isSale": true,
+    "price": "4.99",
+    "productImage": "https://cheese.com/media/img/cheese/Mozzarella.jpg",
+    "productName": "Mozzarella",
+    "type": "brined",
+    "color": "White"
+  },
+  {
+    "id": 4,
+    "isSale": false,
+    "price": "25.99",
+    "productImage": "https://cheese.com/media/img/cheese/wiki/swiss.jpg",
+    "productName": "SWISS Cheese",
+    "type": "artisan",
+    "color": "Yellow"
+  }
+]
